@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using PlatformService.Models;
 
 namespace PlatformService.Data
 {
@@ -12,5 +13,9 @@ namespace PlatformService.Data
         }
 
         #endregion
+
+        public DbSet<Platform> Platforms { get; set; }
+        
+        
     }
 }
