@@ -36,3 +36,10 @@ Stop a specific container:
 docker stop container_id
 ```
 
+Run specific container before is stoped:
+
+```cmd
+docker start container_id
+```
+
+
