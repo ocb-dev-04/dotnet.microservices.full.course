@@ -23,3 +23,10 @@ Delete some running deployment:
 ```cmd
 kubectl delete deployments [deployment-name]
 ```
+
+Show all services running:
+
+```cmd 
+kubectl get services
+```
+

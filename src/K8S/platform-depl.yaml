@@ -1,9 +1,11 @@
 apiVersion: apps/v1
 kind: Deployment
+
 metadata:
   name:  platform-depl
+
 spec:
-  replicas: 5
+  replicas: 1
   selector:
     matchLabels:
       app: platformservice
@@ -14,4 +16,4 @@ spec:
     spec:
       containers:
       - name:  platformservice
-        image:  ocb04dev/platform-service:latest
+        image:  ocb04dev/platformservice:latest
