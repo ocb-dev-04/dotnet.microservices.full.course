@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj": {}
+    "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\AuthService\\AuthService.csproj": {}
   },
   "projects": {
-    "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj": {
+    "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\AuthService\\AuthService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj",
-        "projectName": "CommandsService",
-        "projectPath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj",
+        "projectUniqueName": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\AuthService\\AuthService.csproj",
+        "projectName": "AuthService",
+        "projectPath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\AuthService\\AuthService.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\obj\\",
+        "outputPath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\AuthService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,28 +44,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[11.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[6.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.4, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
