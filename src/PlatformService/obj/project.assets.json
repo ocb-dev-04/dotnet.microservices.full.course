@@ -2104,24 +2104,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/ocb_dev/.nuget/packages/": {}
+    "C:\\Users\\oscar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ocb_dev/Documents/dev_code/dotnet.microservices.full.course/src/PlatformService/PlatformService.csproj",
+      "projectUniqueName": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "/Users/ocb_dev/Documents/dev_code/dotnet.microservices.full.course/src/PlatformService/PlatformService.csproj",
-      "packagesPath": "/Users/ocb_dev/.nuget/packages/",
-      "outputPath": "/Users/ocb_dev/Documents/dev_code/dotnet.microservices.full.course/src/PlatformService/obj/",
+      "projectPath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\PlatformService\\PlatformService.csproj",
+      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/ocb_dev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2185,7 +2192,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N3i8/3JVGa/Itc7Js6oAEuXaVyLXORrnEIgQr+Aql9JMOFbKWYH+/mhF9P7wVfrTgCv/1O6v+CeTLRcnMGWLjQ==",
+  "dgSpecHash": "95QZa4CggbYjnWLSgJTLjom4Gn21Gp6kCMsfofwRBvcGGkw0PTEtg5Cf6uQ7rQvZJuO06Uah++yw0lAm/qAZrQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\oscar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj": {}
+    "C:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj": {}
   },
   "projects": {
-    "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj": {
+    "C:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj",
         "projectName": "CommandsService",
-        "projectPath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj",
+        "projectPath": "C:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\CommandsService.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\dev\\dev_code\\dotnet.microservices.full.course\\src\\CommandsService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

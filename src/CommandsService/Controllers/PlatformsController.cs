@@ -4,20 +4,22 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Controllers
+namespace CommandsService.Controllers
 {
-    [Route("[controller]")]
-    public class PlatformsController : Controller
+    [Route("api/command/[controller]")]
+    [ApiController]
+    public class PlatformsController : ControllerBase
     {
-        public PlatformsController(ILogger<PlatformsController> logger)
+        public PlatformsController()
         {
         }
 
         [HttpPost]
-        public IActionResult Create()
+        public ActionResult TestInboundConnection()
         {
-            return Ok();
+            System.Console.WriteLine("--> Inbound POST # Command Service");
+            return Ok("Inbound POST # Command Service");
         }
-
+        
     }
 }
